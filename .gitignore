@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+local_settings.py
+db.sqlite3
+
+# Media and static
+/media
+/staticfiles
+/static/
+
+# Environment
+.env
+.env.local
+.env.docker
+*.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.sock
+*.log
+*.pid.lock
+docker-compose.override.yml
+__pycache__/
+*.py[cod]
+
+# Migrations cache (opcional)
+*/migrations/__pycache__/
