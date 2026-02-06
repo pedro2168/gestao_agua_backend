@@ -12,12 +12,18 @@ class PointType(models.TextChoices):
 class ParameterType(models.TextChoices):
     FISICO_QUIMICO = "FISICO-QUIMICO", "Físico-Químico"
     MICROBIOLOGICO = "MICROBIOLOGICO", "Microbiológico"
+    ENDOTOXINA = "ENDOTOXINA", "Endotoxina"
+    CONDUTIVIDADE = "CONDUTIVIDADE" , "Condutividade"
+    PH = "PH", "pH"
 
 
 class Unit(models.TextChoices):
     UG_ML = "μg/ml", "μg/ml"
     NG_ML = "ng/ml", "ng/ml"
+    EU_ML = "EU/ml", "EU/ml"
+    UFC_ML = "UFC/mL", "UFC/mL" 
     MG_L = "mg/L", "mg/L"
+    US_CM = "µS/cm", "µS/cm"
     PERCENTUAL = "%", "%"
 
 
@@ -42,7 +48,9 @@ class Clinics(models.Model):
     nome = models.CharField(max_length=150)
 
     cnpj = models.CharField(
-        max_length=18,  # formato 00.000.000/0000-00
+        max_length=18,
+        blank=True,
+        null = True,
         unique=True,
         validators=[
             RegexValidator(
@@ -73,17 +81,14 @@ class Clinics(models.Model):
             )
         ]
     )
-
     numero_maximo_maquinas = models.PositiveIntegerField(
         validators=[MinValueValidator(1)],
         verbose_name="Número máximo de máquinas"
     )
-
     numero_pontos_infraestrutura = models.PositiveIntegerField(
         default=0,
         verbose_name="Número de pontos de infraestrutura"
     )
-
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
@@ -100,11 +105,9 @@ class Point(models.Model):
         blank=True,
         related_name="pontos",
     )
-    # Placeholder para o futuro campo complexo
     analises_de_agua = models.JSONField(default=dict, blank=True)
 
     def clean(self):
-        # regra de negócio: INFRA precisa ter clínica
         if self.tipo == PointType.INFRA and self.clinica is None:
             raise ValidationError("Pontos de infraestrutura devem estar vinculados a uma clínica.")
 
@@ -142,7 +145,6 @@ class WaterAnalysis(models.Model):
     data_da_proxima_coleta = models.DateField(blank=True, null=True)
 
     def save(self, *args, **kwargs):
-        """Define automaticamente data da próxima coleta com base na periodicidade do parâmetro"""
         if not self.data_da_proxima_coleta and self.parametro:
             if self.parametro.periodicidade == "MENSAL":
                 self.data_da_proxima_coleta = self.data_da_coleta + timedelta(days=30)

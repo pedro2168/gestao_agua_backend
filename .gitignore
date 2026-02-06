@@ -39,3 +39,7 @@ __pycache__/
 
 # Migrations cache (opcional)
 */migrations/__pycache__/
+
+# Virtual Environment
+venv/
+.venv/

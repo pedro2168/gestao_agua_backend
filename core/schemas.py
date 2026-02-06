@@ -38,9 +38,9 @@ class AnalysisResult(str, Enum):
 class ClinicSchema(BaseModel):
     model_config = ConfigDict(from_attributes=True)
     
-    id: Optional[UUID] = None
+    id: UUID = None
     nome: str
-    cnpj: Annotated[str, StringConstraints(pattern=r"^\d{2}\.\d{3}\.\d{3}/\d{4}-\d{2}$")] = Field(
+    cnpj: Optional[Annotated[str, StringConstraints(pattern=r"^\d{2}\.\d{3}\.\d{3}/\d{4}-\d{2}$")]] = Field(
         ..., description="CNPJ no formato 00.000.000/0000-00"
     )
     endereco: Optional[str] = None

@@ -1,0 +1,25 @@
+instalar requirements
+pip install -r requirements.txt
+
+gerar clinicas
+python manage.py seed_clinics
+
+resetar e recriar
+python manage.py seed_clinics --reset
+
+entrar no container docker
+docker compose exec-it gestao_agua-web-1
+
+entrar no bash
+docker compose exec-it gestao_agua-web-1 bash
+
+executar o seed
+docker compose exec web python manage.py seed_clinics --reset
+docker exec -it gestao_agua-web-1 python manage.py seed_clinics --reset / com reset
+docker compose exec web python manage.py seed_parameters / sem reset
+
+gerar migrations
+docker compose exec web python manage.py makemigrations
+
+executar migrations
+docker compose exec web python manage.py migrate

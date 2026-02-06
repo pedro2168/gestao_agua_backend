@@ -1,0 +1,358 @@
+==========================================================================================
+RELATÓRIO DE QUALIDADE DAS ANÁLISES DE ÁGUA
+Gerado em: 06/02/2026 14:36
+==========================================================================================
+
+===== ESTATÍSTICAS GERAIS =====
+Clínicas totais: 11
+
+Pontos:
+  • Total: 250
+  • Infraestrutura: 43
+  • Máquinas: 207
+
+Análises totais: 1500
+  • Atrasadas: 244 (16.27%)
+  • Reprovadas: 69 (4.6%)
+
+==========================================================================================
+
+CLÍNICA: Clinica A (55086379-2f88-4829-98ef-0fc118b1a2d0)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 58
+  • Infraestrutura: 6
+  • Máquinas: 52 de 85 (61.18)
+
+Análises totais: 348
+  • Atrasadas: 59 (16.95%)
+  • Reprovadas: 17 (4.89%)
+
+Pontos com problemas:
+- Infra 1A (6529f6bd-83c4-46a8-b5ab-d9db20ce618b) → Atrasado
+- Infra 3A (005eb770-0e1a-4571-8942-2cac7fa770a1) → Reprovado e Atrasado
+- Infra 4A (d5829575-702c-4fc7-8fc5-bbe3f9093fe5) → Atrasado
+- Infra 5A (37f719bf-3fd4-4d77-84e1-90a69589cd2f) → Reprovado e Atrasado
+- Infra 6A (15d2dc83-8751-45d4-b47a-ef674743e72b) → Atrasado
+- Maquina 1A (881bd9d6-c67b-4681-9e68-414079cc9bc2) → Atrasado
+- Maquina 2A (167e9c48-3635-4038-90f7-9d73aae4e7f6) → Reprovado e Atrasado
+- Maquina 5A (62e12069-d697-457b-84fd-1799394fd026) → Reprovado e Atrasado
+- Maquina 7A (74f712e6-eb9e-4081-94ac-f10d8816f72e) → Reprovado e Atrasado
+- Maquina 9A (9b7207e5-c1c7-4f39-b5d9-16d3d04d5c30) → Reprovado e Atrasado
+- Maquina 12A (24c05b0f-e87c-4986-8c4a-ea18d0bd51b8) → Atrasado
+- Maquina 13A (004a391e-39be-4e4d-bdfe-b70b99ab65d0) → Reprovado e Atrasado
+- Maquina 15A (d213c3bc-bcc3-4a6b-829d-c02eae4120f0) → Atrasado
+- Maquina 16A (ce48ac87-d79a-4627-b31c-98c3df15f07d) → Atrasado
+- Maquina 17A (3868774b-e476-4286-ae3f-6c49e8167f7f) → Atrasado
+- Maquina 18A (c8c0f150-beeb-4260-8bdd-d19c4f0e96f5) → Atrasado
+- Maquina 20A (e93d0b16-5d96-4c44-945e-b213fffb0f4c) → Atrasado
+- Maquina 22A (1a6f881d-5b65-4eb4-8bfe-79844d0a9fb7) → Reprovado e Atrasado
+- Maquina 24A (3b42d5d0-8232-4c02-ba84-3c2ad0338373) → Reprovado e Atrasado
+- Maquina 25A (e0b3d9a1-f845-4773-93c8-2e7c5abc4f32) → Atrasado
+- Maquina 26A (c1a81cbf-5aa8-41c0-9595-6e4981815b8f) → Atrasado
+- Maquina 27A (59c2211f-7e91-4366-8181-a54bc6ff1169) → Reprovado
+- Maquina 28A (dcf99478-299f-4478-ba2b-995e4afd385d) → Atrasado
+- Maquina 29A (e37a04df-97f7-4f12-adc9-901f4fa2f550) → Reprovado
+- Maquina 30A (76d5b492-0ddd-4aed-90a1-e6b87e5b041e) → Atrasado
+- Maquina 31A (87d27b6a-72db-40cd-808d-f5dbcd7c64cd) → Atrasado
+- Maquina 32A (8ba3b8b9-4b1b-4019-a672-531fb0ddf027) → Reprovado e Atrasado
+- Maquina 34A (d14feba5-4c24-4ee9-9909-7a2167e314b5) → Atrasado
+- Maquina 35A (ee66cd6c-f33b-4712-ae4d-674a73706199) → Atrasado
+- Maquina 36A (5cff08a0-b66a-4103-81c5-596aef7c6ec2) → Reprovado e Atrasado
+- Maquina 37A (e5e765e1-ed6c-41cf-9555-23a3dee1f938) → Atrasado
+- Maquina 38A (2f8fec8c-8936-4520-a945-c484b1aefe15) → Atrasado
+- Maquina 39A (9cc06332-76ec-4bc8-8685-3fc149cd5d1a) → Atrasado
+- Maquina 40A (1decf13f-b2fc-4ef7-9929-0749e90bf306) → Atrasado
+- Maquina 41A (5005b3b2-2c2a-427c-ae2b-4d5251ef2a01) → Reprovado
+- Maquina 42A (78cc0315-1ab7-48ea-bfc4-9c9cb36042df) → Atrasado
+- Maquina 43A (b37fdd4f-715b-482f-bf23-655f17d1ba83) → Reprovado e Atrasado
+- Maquina 44A (f02ce13d-17f0-45ea-aaf8-2291dbb582c7) → Atrasado
+- Maquina 46A (5354bc8d-8d94-4ecd-aa22-5a017577ed61) → Atrasado
+- Maquina 47A (277b8998-f1c5-46f1-ac64-4b64d7163335) → Atrasado
+- Maquina 48A (47e9e631-b255-4030-8ec6-b6b7989fec40) → Atrasado
+- Maquina 49A (e14e2b5a-a68f-448f-b1c5-0c2e76f86fa6) → Atrasado
+- Maquina 50A (15edd8f9-2ebd-42e2-868f-2d3ee241500d) → Atrasado
+- Maquina 51A (a4c88421-d981-447b-9303-48d58c6c79d4) → Atrasado
+- Maquina 52A (a92d0d98-7dde-4df5-91ec-c41d3f07979a) → Atrasado
+
+
+CLÍNICA: Clinica B (a8cdbe7d-2c96-4d77-b828-844d0a696e8f)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 27
+  • Infraestrutura: 4
+  • Máquinas: 23 de 33 (69.7)
+
+Análises totais: 162
+  • Atrasadas: 36 (22.22%)
+  • Reprovadas: 4 (2.47%)
+
+Pontos com problemas:
+- Infra 1B (93bc142c-6b5f-4e3f-a250-5247d7c36594) → Atrasado
+- Infra 2B (48a174c5-600d-4589-9e98-abfa8789bfea) → Atrasado
+- Infra 3B (b9ce8dda-cef0-4eb4-81d7-9be18232b07a) → Reprovado e Atrasado
+- Infra 4B (3991dd33-606f-4cdd-8d61-e382b6ca6aa0) → Atrasado
+- Maquina 2B (85abbd90-3c96-41b2-b2ac-016c741ac5f3) → Atrasado
+- Maquina 3B (c7ed3111-d66b-4a9b-bc7e-0cbbbcec99ad) → Atrasado
+- Maquina 5B (3ef94a12-8962-457d-847d-ffdf7193b57c) → Atrasado
+- Maquina 6B (2cb7201e-2ef7-4a3b-84d5-a85cde3c8d95) → Reprovado e Atrasado
+- Maquina 7B (b60c05be-d341-442e-9f48-bfbdedb50449) → Atrasado
+- Maquina 8B (83e405d2-62c5-4e5d-9220-9344047ef8dc) → Atrasado
+- Maquina 10B (650053f2-792f-4a65-9b80-567941348e38) → Atrasado
+- Maquina 12B (747b08a3-34fd-4ae4-a3ea-9b2a5e2e4bbe) → Atrasado
+- Maquina 13B (9d30c392-d69c-4811-952b-987e5cda3567) → Atrasado
+- Maquina 14B (a9ded603-7781-4b3e-bc3b-7fe6ece12a38) → Atrasado
+- Maquina 15B (9e089139-c886-498f-a287-1da013ba4bbe) → Atrasado
+- Maquina 16B (6201a887-0450-4f23-a6de-b85bfa96d046) → Reprovado e Atrasado
+- Maquina 17B (8cfb7ce0-33bd-4e47-ba99-180d70e873d3) → Atrasado
+- Maquina 18B (fe7e65f4-0c6b-4979-ad3c-cbc67c164ca3) → Atrasado
+- Maquina 19B (ff1614e7-4eeb-401a-8368-0722ec7314a3) → Atrasado
+- Maquina 20B (69ed26f2-3cff-4ec1-8f29-78f787b4905c) → Reprovado
+- Maquina 22B (98868e89-bcd1-40be-a4a3-dea5a511bab0) → Atrasado
+- Maquina 23B (3e6e6850-c92c-43bd-a1a5-eb69e13cd142) → Atrasado
+
+
+CLÍNICA: Clinica C (316bc175-1e10-4069-bc0a-caca36c28682)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 43
+  • Infraestrutura: 5
+  • Máquinas: 38 de 45 (84.44)
+
+Análises totais: 258
+  • Atrasadas: 45 (17.44%)
+  • Reprovadas: 14 (5.43%)
+
+Pontos com problemas:
+- Infra 1C (9406303e-d2a3-4918-a3d3-05ef00cad8d9) → Reprovado
+- Infra 4C (ae6fade4-5191-4f61-aa1e-bb6a0c9bda94) → Atrasado
+- Infra 5C (b5cb699b-e7d8-4f46-a00d-a1418dc409fd) → Reprovado
+- Maquina 1C (f5ad715f-7775-465a-b4e2-fd2fe92e47c8) → Reprovado e Atrasado
+- Maquina 2C (4cbb6977-e7b0-428c-9e06-26296b1b3784) → Atrasado
+- Maquina 3C (1f38aa47-dfd0-46ea-88e0-c69bd0ec98c9) → Atrasado
+- Maquina 4C (0030663f-0db6-4778-b1bc-5533fc37d182) → Atrasado
+- Maquina 6C (129172f9-25a8-4ae2-89b7-3345a51c8593) → Atrasado
+- Maquina 7C (5d3f7a99-7907-4632-9751-fb831dba3d7a) → Atrasado
+- Maquina 8C (91f5c7c0-53ab-4708-b7e9-548ee26add21) → Reprovado
+- Maquina 10C (5f082188-f965-442a-8735-c0ef3e17e889) → Atrasado
+- Maquina 11C (7f3227ab-58f8-49bb-a7eb-449556e62be5) → Atrasado
+- Maquina 12C (53e4061b-9671-4a1f-a742-9976bee5c01d) → Reprovado e Atrasado
+- Maquina 13C (aadf4ffe-073a-41ff-9d35-64e8e6990459) → Atrasado
+- Maquina 14C (a29c0ac6-b80e-49c6-a15f-80a905b508af) → Reprovado
+- Maquina 15C (5e8fb48f-2a9c-4e7b-ba7b-80b1b3878de4) → Atrasado
+- Maquina 17C (8663cf10-476c-41d5-a1bd-3cad43ea4341) → Atrasado
+- Maquina 18C (2514ce35-3c2d-4ddc-8ae5-30075b8cf066) → Atrasado
+- Maquina 19C (d1025139-9827-46eb-a6db-2d3c6e326b01) → Atrasado
+- Maquina 21C (3056795d-3c0f-4b70-96c4-c9af06684d59) → Atrasado
+- Maquina 22C (56dceb88-43c5-47ce-961c-af863c8764e4) → Reprovado
+- Maquina 23C (b07586e6-fcff-4a69-94c8-534cc4466fb2) → Reprovado e Atrasado
+- Maquina 25C (00d9be66-784d-4cc4-b4f9-5ff7b2c7bc17) → Atrasado
+- Maquina 26C (1aba3cda-8cc3-4fba-afaa-bf88fc414523) → Atrasado
+- Maquina 27C (80974a66-1752-49a8-9356-4b31914d0639) → Reprovado
+- Maquina 28C (6e147132-e174-4e61-b9e0-7d62f64fd500) → Atrasado
+- Maquina 29C (f9e44fea-4ca6-4850-95aa-3adaba1785ec) → Reprovado
+- Maquina 30C (1b93b403-def7-4d51-b9c7-a4cd74f4969a) → Atrasado
+- Maquina 31C (ce8cf747-98a6-4163-852d-c46ada87d70a) → Reprovado e Atrasado
+- Maquina 32C (edfd7428-8417-4c92-babf-5445bc3dac92) → Atrasado
+- Maquina 33C (873a550f-0fa6-41dc-a720-aa9051bd3753) → Atrasado
+- Maquina 37C (15dbfbc3-62ca-4d3e-a32d-85b7b5ca4465) → Atrasado
+- Maquina 38C (e5ee34c0-bc70-420f-8474-1071061f2d88) → Reprovado e Atrasado
+
+
+CLÍNICA: Clinica D (15b7cfd8-6a4a-4d2b-ab52-287dcddcbc90)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 15
+  • Infraestrutura: 4
+  • Máquinas: 11 de 21 (52.38)
+
+Análises totais: 90
+  • Atrasadas: 18 (20.0%)
+  • Reprovadas: 6 (6.67%)
+
+Pontos com problemas:
+- Infra 1D (53252d00-e439-4ce6-aadf-0994a6f46a63) → Atrasado
+- Infra 2D (1a35d78d-45eb-4628-8ddc-501e9d3f3d31) → Atrasado
+- Infra 3D (31e7e492-3c90-4293-8a46-c423304268af) → Reprovado e Atrasado
+- Infra 4D (6bdf6241-68d8-469c-b817-cd4afc0ddf19) → Reprovado e Atrasado
+- Maquina 2D (69dae96c-3deb-4104-a11b-4c4fb8805725) → Atrasado
+- Maquina 3D (a0c080b3-d852-4cff-9457-f33099b8873d) → Reprovado e Atrasado
+- Maquina 4D (44494c36-9a56-49af-9417-99dace57593a) → Atrasado
+- Maquina 6D (aef199ef-4d33-416d-baa6-a5d79fa42bfa) → Atrasado
+- Maquina 7D (4f887abf-49d8-4452-968a-7bbb45f9773c) → Reprovado
+- Maquina 8D (23fd1f48-b10f-4789-9bfa-206c4ffbf6fe) → Atrasado
+- Maquina 9D (0cad09b8-ad92-4470-b175-58d40cf1c5d3) → Reprovado e Atrasado
+- Maquina 10D (6b09a2c9-f888-4731-b260-25fa60fc44e3) → Atrasado
+- Maquina 11D (cc333df0-2734-4a25-b630-0a8f49ddb5ce) → Atrasado
+
+
+CLÍNICA: Clinica E (5c024097-452c-4509-ae19-3c03d3b6b087)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 10
+  • Infraestrutura: 4
+  • Máquinas: 6 de 11 (54.55)
+
+Análises totais: 60
+  • Atrasadas: 6 (10.0%)
+  • Reprovadas: 2 (3.33%)
+
+Pontos com problemas:
+- Maquina 1E (bd8f9801-abee-4164-9b4b-aa160868b800) → Reprovado e Atrasado
+- Maquina 3E (3d2ad575-25bd-40ae-bc9e-35b342ea5d69) → Atrasado
+- Maquina 4E (99224d0e-9a8c-43ed-b996-9b6dcb443dbe) → Reprovado
+- Maquina 5E (0ff6a1a3-7ec0-4b6a-bc28-d1e0a96d716d) → Atrasado
+- Maquina 6E (1131fd3c-8489-4db3-a2cb-de4e5c35b607) → Atrasado
+
+
+CLÍNICA: Clinica F (4481c116-f6b2-4663-9880-f9b58ad90a12)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 21
+  • Infraestrutura: 4
+  • Máquinas: 17 de 26 (65.38)
+
+Análises totais: 126
+  • Atrasadas: 18 (14.29%)
+  • Reprovadas: 7 (5.56%)
+
+Pontos com problemas:
+- Infra 1F (b95b8094-8daa-4a82-be24-354b85111902) → Reprovado e Atrasado
+- Infra 3F (5c10aaf7-12c2-4445-80b2-3145d5fe2bd1) → Reprovado e Atrasado
+- Infra 4F (58dbdcf7-9f24-41df-b295-d40246ce355f) → Atrasado
+- Maquina 1F (80e70f1e-13bc-46c8-ab87-c774a7bf3bb8) → Atrasado
+- Maquina 3F (d976da24-9486-4a69-a554-41875d88bd89) → Atrasado
+- Maquina 4F (582ebcaf-d453-4f81-9c66-bc1cd5636871) → Reprovado e Atrasado
+- Maquina 8F (a260a49f-b133-4ab2-bce4-c0b7f199474a) → Reprovado e Atrasado
+- Maquina 10F (98aa8372-0adc-4429-9f71-7162031f21d3) → Reprovado e Atrasado
+- Maquina 11F (7c6efca9-aef5-44b7-90d2-a8b6220de890) → Atrasado
+- Maquina 12F (ab099a7c-03b2-4753-ad48-8058dd48a2f1) → Atrasado
+- Maquina 13F (e407c50a-9b0d-447c-a837-0a2adf095ddb) → Reprovado
+- Maquina 14F (d63cafd3-64a0-4fd5-8e5b-dfc2b1ae11ec) → Atrasado
+
+
+CLÍNICA: Clinica G (7f1415ab-9cb9-477d-916e-1c999af82537)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 21
+  • Infraestrutura: 3
+  • Máquinas: 18 de 27 (66.67)
+
+Análises totais: 126
+  • Atrasadas: 18 (14.29%)
+  • Reprovadas: 6 (4.76%)
+
+Pontos com problemas:
+- Infra 1G (70a55312-839e-4c8f-b392-b33fe7fb3083) → Reprovado e Atrasado
+- Infra 2G (94b0caa8-b070-4473-835b-5e814bb3abc5) → Atrasado
+- Infra 3G (a23cfdd9-6247-4aea-8aab-973d47687559) → Atrasado
+- Maquina 1G (93543bcd-c820-438d-b4bd-42d38407fea3) → Atrasado
+- Maquina 2G (469ff67f-aa0b-44b0-8098-e1a4104725b6) → Atrasado
+- Maquina 3G (c37fe2b1-3194-4fd6-b0d7-8ce64ef7a0b7) → Atrasado
+- Maquina 5G (88bd8627-a108-4215-aa98-22aa691ce441) → Atrasado
+- Maquina 6G (ef6f2630-66ad-4450-8fbc-e93126548ba2) → Atrasado
+- Maquina 7G (6ffadf73-582a-4736-94e0-f29633615bbd) → Atrasado
+- Maquina 8G (83ed56a1-9065-474e-b6af-def8caf54605) → Reprovado e Atrasado
+- Maquina 9G (f13a63d5-3d35-4920-8923-90ab46f2a5e6) → Reprovado e Atrasado
+- Maquina 10G (18d2e1ee-9878-4c76-8b3b-884e7fc7bd5d) → Reprovado
+- Maquina 12G (b89be9b3-917b-4020-a382-2d1a273f3bdd) → Atrasado
+- Maquina 13G (56096efe-942a-4d98-9391-25cd2e65b66a) → Reprovado e Atrasado
+- Maquina 14G (69661033-25ae-469f-b591-ad0231bf001b) → Reprovado
+- Maquina 15G (3802703e-51e0-4bc9-8a8a-42bcd610cc3b) → Atrasado
+- Maquina 16G (e9649d54-67b4-40f8-96bb-7fc350893e40) → Atrasado
+
+
+CLÍNICA: Clinica H (b02eaf84-6835-4baa-bfbe-4f2bc8ca5b91)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 16
+  • Infraestrutura: 3
+  • Máquinas: 13 de 13 (100.0)
+
+Análises totais: 96
+  • Atrasadas: 16 (16.67%)
+  • Reprovadas: 3 (3.12%)
+
+Pontos com problemas:
+- Infra 1H (a4e5d3e7-f221-433e-a52c-074f7bb9078b) → Atrasado
+- Infra 2H (07fc9476-7a0d-4082-b9da-e15583c0b1e6) → Atrasado
+- Infra 3H (3917fca7-4673-4ce1-8019-8a8162246976) → Atrasado
+- Maquina 1H (aa89301a-ace6-4bc7-8b67-d0640a940609) → Atrasado
+- Maquina 2H (3b1b28e0-4b46-42b7-9f9a-84958123b368) → Reprovado
+- Maquina 3H (d8f6e670-3df8-4672-be83-1fa0ab7f513d) → Atrasado
+- Maquina 5H (03e2c417-a2fe-4097-9468-74b8f3b4e4f9) → Atrasado
+- Maquina 6H (5b7ed78e-ae78-4aa7-b09e-5f2a9f75ab52) → Reprovado e Atrasado
+- Maquina 8H (d6a89523-b1de-4993-ba4d-621a83986b00) → Atrasado
+- Maquina 9H (e721e2c9-de3c-4e5f-9211-bacb7d3434d5) → Atrasado
+- Maquina 10H (f5b90da0-f3a1-43d0-a081-862e9473a50e) → Reprovado
+- Maquina 11H (ab805668-de61-4774-ba3d-d363ad2a4744) → Atrasado
+- Maquina 12H (13d79ce8-9fe1-4812-b9f4-980c043926df) → Atrasado
+
+
+CLÍNICA: Clinica I (af103f14-c356-4428-9d80-18f4089a88c3)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 14
+  • Infraestrutura: 3
+  • Máquinas: 11 de 13 (84.62)
+
+Análises totais: 84
+  • Atrasadas: 10 (11.9%)
+  • Reprovadas: 5 (5.95%)
+
+Pontos com problemas:
+- Infra 1I (311a754f-ab3e-4e97-ab74-0d8075c7d2be) → Reprovado
+- Infra 3I (a28fc8c0-6ddd-4d7e-acb3-a355a7334fc9) → Atrasado
+- Maquina 1I (af9eb0fe-56db-4128-885f-3a8aa1bffa1e) → Atrasado
+- Maquina 2I (78757721-1707-4d05-bf62-ef272bfef132) → Atrasado
+- Maquina 3I (c08bd426-22aa-4093-9384-9f3ff249b7ad) → Reprovado
+- Maquina 4I (4240d5c1-4a50-422d-ba9f-6d4acc268487) → Atrasado
+- Maquina 5I (1f45bea4-88b3-4c61-a7a3-60cba0877f73) → Reprovado
+- Maquina 8I (88338bce-5a67-49ff-a079-9a7603d45077) → Reprovado e Atrasado
+- Maquina 9I (320352d9-1867-4728-a899-2a4a0c212b51) → Atrasado
+- Maquina 10I (8e447844-35b5-4527-a535-e5978fe5477d) → Reprovado
+- Maquina 11I (c784ee4b-7e97-465b-886b-99613f5e17da) → Atrasado
+
+
+CLÍNICA: Clinica J (80836de0-f11e-4743-aea1-6123b84d6642)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 9
+  • Infraestrutura: 4
+  • Máquinas: 5 de 11 (45.45)
+
+Análises totais: 54
+  • Atrasadas: 8 (14.81%)
+  • Reprovadas: 3 (5.56%)
+
+Pontos com problemas:
+- Infra 1J (ecb9f3f1-cf97-4c0d-bd10-f47a317861b3) → Atrasado
+- Infra 2J (8012fe2a-07a3-4e13-be05-b4e9ee3fa984) → Reprovado
+- Infra 4J (9741ba01-6d0f-4435-af35-07210f990a0f) → Atrasado
+- Maquina 1J (124871db-f55f-4cba-82ba-77500e52febd) → Reprovado
+- Maquina 2J (a22c3f4c-f035-4bad-87b5-a560d932e7fa) → Atrasado
+- Maquina 3J (f5796e2f-a621-46da-9976-d97c4cfd253a) → Atrasado
+- Maquina 5J (cfa9d6ba-fe4d-4ae5-a15d-b3902f19af46) → Reprovado e Atrasado
+
+
+CLÍNICA: Clinica K (fa7fa3c0-aa3a-4ea2-8b46-9a85d0319741)
+------------------------------------------------------------------------------------------
+Pontos:
+  • Total: 16
+  • Infraestrutura: 3
+  • Máquinas: 13 de 17 (76.47)
+
+Análises totais: 96
+  • Atrasadas: 10 (10.42%)
+  • Reprovadas: 2 (2.08%)
+
+Pontos com problemas:
+- Infra 1K (ec052ea2-7d8c-4213-a1d9-b6e3811abcd2) → Atrasado
+- Maquina 2K (fc6b99ce-e69b-4873-aa6d-3e09ca5db8b4) → Reprovado e Atrasado
+- Maquina 3K (9dec9fc4-e42e-4351-8156-2b0062ec478a) → Atrasado
+- Maquina 5K (5f443f59-0834-4b35-abb9-23b950fdfc3d) → Atrasado
+- Maquina 8K (18b9bee7-5ea5-4885-b079-c36c07b5dfdd) → Reprovado e Atrasado
+- Maquina 9K (cf15d9f6-9be0-414e-919d-11b9ea9e158d) → Atrasado
+- Maquina 10K (94d8c0ad-56f6-41e2-ad21-cd25a5bbb6dc) → Atrasado
+- Maquina 13K (8a1991da-aeb0-4f22-aa9e-80c5ee95177e) → Atrasado
+

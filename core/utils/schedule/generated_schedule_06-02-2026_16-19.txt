@@ -1,0 +1,187 @@
+================================================================================
+PLANO ANUAL DE COLETAS (MILP)
+Gerado em: 06/02/2026 16:19
+================================================================================
+
+===== ESTADO INICIAL (ANTES DO SCHEDULING) =====
+Total análises: 1000
+Atrasadas: 153
+Reprovadas: 40
+
+===== RESULTADO APÓS SCHEDULING =====
+Atrasadas no plano: 153
+Reprovadas no plano: 40
+
+===== MÉTRICAS DE CUSTO =====
+Custo total: 108665
+Menor custo individual: 0
+Maior custo individual: 5435
+
+===== DISTRIBUIÇÃO MENSAL =====
+
+Mês 2 → 92 coletas
+   - Clinica A: 8
+   - Clinica B: 5
+   - Clinica C: 19
+   - Clinica D: 3
+   - Clinica E: 4
+   - Clinica F: 12
+   - Clinica G: 13
+   - Clinica H: 9
+   - Clinica I: 7
+   - Clinica J: 7
+   - Clinica K: 5
+
+Mês 3 → 92 coletas
+   - Clinica A: 23
+   - Clinica B: 7
+   - Clinica C: 12
+   - Clinica D: 5
+   - Clinica E: 5
+   - Clinica F: 3
+   - Clinica G: 14
+   - Clinica H: 7
+   - Clinica I: 6
+   - Clinica J: 3
+   - Clinica K: 7
+
+Mês 4 → 92 coletas
+   - Clinica A: 20
+   - Clinica B: 7
+   - Clinica C: 20
+   - Clinica D: 8
+   - Clinica E: 7
+   - Clinica F: 10
+   - Clinica G: 6
+   - Clinica H: 5
+   - Clinica I: 4
+   - Clinica J: 2
+   - Clinica K: 3
+
+Mês 5 → 92 coletas
+   - Clinica A: 25
+   - Clinica B: 15
+   - Clinica C: 13
+   - Clinica D: 5
+   - Clinica E: 5
+   - Clinica F: 6
+   - Clinica G: 8
+   - Clinica H: 2
+   - Clinica I: 4
+   - Clinica J: 3
+   - Clinica K: 6
+
+Mês 6 → 92 coletas
+   - Clinica A: 24
+   - Clinica B: 13
+   - Clinica C: 13
+   - Clinica D: 4
+   - Clinica E: 5
+   - Clinica F: 9
+   - Clinica G: 4
+   - Clinica H: 6
+   - Clinica I: 4
+   - Clinica J: 2
+   - Clinica K: 8
+
+Mês 7 → 92 coletas
+   - Clinica A: 21
+   - Clinica B: 7
+   - Clinica C: 14
+   - Clinica D: 4
+   - Clinica E: 2
+   - Clinica F: 9
+   - Clinica G: 7
+   - Clinica H: 9
+   - Clinica I: 6
+   - Clinica J: 5
+   - Clinica K: 8
+
+Mês 8 → 92 coletas
+   - Clinica A: 21
+   - Clinica B: 11
+   - Clinica C: 25
+   - Clinica D: 5
+   - Clinica E: 2
+   - Clinica F: 9
+   - Clinica G: 6
+   - Clinica H: 3
+   - Clinica I: 4
+   - Clinica J: 2
+   - Clinica K: 4
+
+Mês 9 → 92 coletas
+   - Clinica A: 22
+   - Clinica B: 8
+   - Clinica C: 16
+   - Clinica D: 7
+   - Clinica E: 4
+   - Clinica F: 8
+   - Clinica G: 5
+   - Clinica H: 8
+   - Clinica I: 7
+   - Clinica J: 2
+   - Clinica K: 5
+
+Mês 10 → 92 coletas
+   - Clinica A: 30
+   - Clinica B: 10
+   - Clinica C: 13
+   - Clinica D: 9
+   - Clinica E: 1
+   - Clinica F: 3
+   - Clinica G: 3
+   - Clinica H: 7
+   - Clinica I: 5
+   - Clinica J: 4
+   - Clinica K: 7
+
+Mês 11 → 42 coletas
+   - Clinica A: 8
+   - Clinica B: 3
+   - Clinica C: 5
+   - Clinica D: 1
+   - Clinica E: 2
+   - Clinica F: 2
+   - Clinica G: 8
+   - Clinica H: 3
+   - Clinica I: 4
+   - Clinica J: 2
+   - Clinica K: 4
+
+Mês 12 → 38 coletas
+   - Clinica A: 6
+   - Clinica B: 7
+   - Clinica C: 11
+   - Clinica F: 6
+   - Clinica G: 2
+   - Clinica H: 1
+   - Clinica I: 1
+   - Clinica J: 1
+   - Clinica K: 3
+
+Mês 1 → 92 coletas
+   - Clinica A: 24
+   - Clinica B: 15
+   - Clinica C: 11
+   - Clinica D: 9
+   - Clinica E: 3
+   - Clinica F: 7
+   - Clinica G: 8
+   - Clinica H: 4
+   - Clinica I: 4
+   - Clinica J: 3
+   - Clinica K: 4
+
+===== RESUMO POR CLÍNICA =====
+Clinica A: Total=232 | Atrasadas=39 | Reprovadas=13
+Clinica B: Total=108 | Atrasadas=22 | Reprovadas=3
+Clinica C: Total=172 | Atrasadas=27 | Reprovadas=6
+Clinica D: Total=60 | Atrasadas=10 | Reprovadas=3
+Clinica E: Total=40 | Atrasadas=3 | Reprovadas=1
+Clinica F: Total=84 | Atrasadas=12 | Reprovadas=4
+Clinica G: Total=84 | Atrasadas=9 | Reprovadas=3
+Clinica H: Total=64 | Atrasadas=12 | Reprovadas=0
+Clinica I: Total=56 | Atrasadas=7 | Reprovadas=3
+Clinica J: Total=36 | Atrasadas=5 | Reprovadas=2
+Clinica K: Total=64 | Atrasadas=7 | Reprovadas=2

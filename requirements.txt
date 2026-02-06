@@ -5,6 +5,7 @@ click==8.3.0
 colorama==0.4.6
 Django==5.2.8
 django-ninja==1.4.5
+django-schema-viewer
 gunicorn==23.0.0
 h11==0.16.0
 httptools==0.7.1
@@ -24,3 +25,6 @@ tzdata==2025.2
 uvicorn==0.38.0
 watchfiles==1.1.1
 websockets==15.0.1
+ortools==9.10.4067
+matplotlib==3.9.0
+python-dateutil
